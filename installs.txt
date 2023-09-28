@@ -1,0 +1,8 @@
+Product dependencies: npm install express mongoose nodemon body-parser
+Dev dependencies: npm install -D @babel/core @babel/cli @babel/node @babel/preset-env
+
+Babel: azért kell, hogy lefordítsuk a legújabb JScriptet a böngészőnek
+
+Controllers: functions that will allow us to get information to the endpoints and forward it
+Routes: endpoints 
+Models: schema models for our database
